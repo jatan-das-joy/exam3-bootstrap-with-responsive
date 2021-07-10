@@ -1,0 +1,293 @@
+/* start-responsive */
+
+@media all and (min-width:1550px) {
+   
+ 
+
+}
+
+
+@media all and (min-width:1550px) {
+   
+    .had {
+        font-size: 70px;
+    }
+
+
+}
+
+@media all and (max-width:1400px) {
+   
+    .had {
+        font-size: 52px;
+    }
+
+
+}
+@media all and (max-width:1200px) {
+    .startlogo {
+        margin-top: 5px;
+        display: inline-block;
+    }
+    .startlogo h2 {
+        display: inline-block;
+    }
+    .str {
+        width: 35%;
+    }
+    .mnu {
+        width: 65%;
+    }
+    .startmenu ul li a {
+        padding: 0px 12px;
+
+    }
+    .pri {
+        width: 50%;
+        box-sizing: border-box;
+    }
+    .item p {
+        padding: 0 50px;
+        margin-bottom: 22px;
+    }
+    .col-xl-6.asi {
+        width: 50%;
+    }
+    .imgt img {
+        height: 113%;
+    }
+    .col-xl-4.cst {
+        width: 33.3%;
+    }
+}
+
+@media all and (max-width:1000px){
+
+    .str {
+        width: 30%;
+    }
+    .mnu {
+        width: 70%;
+    }
+    .startlogo h2 {
+        font-size: 27px;
+        font-weight: 500;
+        line-height: 51px;
+        padding-left: 5px;
+    }
+    .startmenu ul {
+        margin: 0;
+        padding: 0;
+    }
+    .startmenu ul li a {
+        color: rgb(0, 0, 0);
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .had {
+        font-size: 44px;
+    }
+}
+
+@media all and (max-width:800px){
+ 
+    .startlogo h2 {
+        font-size: 19px;
+        font-weight: 600;
+    }
+    .str {
+        width: 30%;
+        padding-right: 0;
+    }
+
+    .startmenu ul li a {
+        font-size: 13px;
+        padding: 0 6px;
+        line-height: 59px;
+    }
+    .item p {
+        padding: 0 0;
+        margin-bottom: 22px;
+    }
+    .col-xl-6.asi {
+        width: 100%;
+    }
+    .imgt img {
+        height: 95%;
+    }
+    .item3 {
+        border: 1px solid #ddd;
+        background: #fff;
+    }
+    .item3 {
+        border: none;
+        background: none;
+    }
+
+}
+
+@media all and (max-width:650px){
+    .str {
+        width: 30%;
+        text-align: center;
+    }
+
+    .startlogo h2 {
+        font-size: 15px;
+        font-weight: 700;
+    }
+    .startmenu ul li a {
+        font-size: 11px;
+        padding: 0px 3px;
+    }
+    .had {
+        font-size: 38px;
+    }
+    .had2 {
+        word-spacing: 1px;
+        font-size: 16px;
+    }
+    .item p {
+        margin-bottom: 22px;
+
+        font-size: 16px;
+    }
+    .col-xl-6.asi {
+        width: 100%;
+    }
+    .imgt img {
+        height: 100%;
+    }
+
+    .sector {
+        text-align: center;
+    }
+    .sector h2 {
+        margin-top: 25px;
+    }
+    .item p {
+        padding: 0;
+    }
+
+
+}
+@media all and (max-width:500px){
+body{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.str {
+	width: 100%;
+	text-align: center;
+}
+.startlogo {
+	margin-top: none;
+
+}
+.startlogo h2 {
+	line-height: 20px;
+}
+.mnu {
+	width: 100%;
+}
+
+.startmenu ul li a {
+	font-size: 11px;
+	padding: 0px 4px;
+	line-height: 16px;
+}
+.startlogo h2 {
+	font-size: 21px;
+	font-weight: 700;
+	margin-bottom: 0;
+    line-height: 6px;
+}
+.had {
+	font-size: 26px;
+}
+.had2 {
+	word-spacing: none;
+	font-size: 14px;
+}
+
+.btn.btn-outline-light.btn-lg.mt-3.bttnp {
+	font-size: 13px !important;
+	text-transform: uppercase !important;
+}
+.pri {
+	width: 100%;
+}
+.same-section p {
+	font-size: 16px;
+}
+.same-section h1 {
+	font-size: 34px;
+	font-weight: 500;
+}
+.item h2 {
+	font-size: 25px;
+
+}
+.col-xl-4.cst {
+	width: 50%;
+	margin-bottom: 20px;
+}
+.col-xl-4.cst.map {
+	width: 100%;
+	margin-bottom: 0px;
+}
+.col-xl-4.cst.map i {
+	font-size: 73px;
+}
+.col-xl-4.cst.map p {
+	font-size: 23px;
+	margin-bottom: 0;
+}
+
+.col-xl-4.cst.map a {
+	width: 100px;
+	height: 100px;
+	line-height: 100%;
+	margin: auto;
+	text-align: center;
+	padding: 10px;
+	display: block;
+	border-radius: 12.5px;
+	background: #d0e9ff;
+}
+
+.slider {
+	height: 60vh;
+
+}
+.startmenu ul li:nth-child(6) a {
+	margin-right: 0px !important;
+}
+.startmenu ul {
+	text-align: center !important;
+}
+
+.prizing-section.py-5.mt-4 {
+	padding: 17px 0 !important;
+	margin: 0 !important;
+}
+.about-section.py-5 {
+	padding: 17px 0 !important;
+	margin: 0 !important;
+}
+.contact-section.bgf.py-5 {
+	padding: 17px 0 !important;
+	margin: 0 !important;
+}
+.row.py-5 {
+	padding: 0 !important;
+}
+.row.py-4 {
+	padding: 0 !important;
+}
+.item3 {
+	border: none;
+	background: none;
+}
+
+}
